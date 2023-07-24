@@ -10,5 +10,7 @@ The Titanic dataset is a classic and widely used dataset for data analysis and p
 The Titanic dataset is provided in the 'data' directory, containing two CSV files:
 
 train.csv: Training dataset with features and survival labels.
+
 test.csv: Test dataset without survival labels, used for evaluating the final model.
+
 gender_submission.csv: A dataset of predictions that assume all and only female passengers survive.
